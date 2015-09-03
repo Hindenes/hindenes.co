@@ -63,7 +63,6 @@ target.buildImg = function() {
 target.buildHtml = function() {
     var htmlFile = path.join(webapp, 'index.mustache');
 
-
     section('Building HTML → ' + htmlFile);
     renderAndWriteMustache(htmlFile, outputHtmlFile, {
         css: minifyCss(),
