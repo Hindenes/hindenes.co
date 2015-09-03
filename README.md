@@ -1,4 +1,4 @@
-heggheim.co
+hindenes.co
 ===============
 
-Landing page for heggheim.co
+Landing page for hindenes.co
